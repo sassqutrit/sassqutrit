@@ -1,6 +1,11 @@
 # Hola mi nombre es Silvano Sanchez Sanchez 👋
 
-- 🌱 I’m currently learning Qiskit Quantum Computing  
+- 🌱 I’m currently learning Qiskit Quantum Computing
+
+[![Img-Ofic-Corporation-sassqutrit.jpg](https://i.postimg.cc/4dbSXfnb/Img-Ofic-Corporation-sassqutrit.jpg)](https://postimg.cc/qhqLLdsz)
+
+
+
 <!--
 **sassqutrit/sassqutrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
