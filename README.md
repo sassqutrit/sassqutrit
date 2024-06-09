@@ -4,7 +4,7 @@
 
 [![Img-Ofic-Corporation-sassqutrit.jpg](https://i.postimg.cc/4dbSXfnb/Img-Ofic-Corporation-sassqutrit.jpg)](https://postimg.cc/qhqLLdsz)
 
-
+[![qubit-grande.jpg](https://i.postimg.cc/pTpBNCNv/qubit-grande.jpg)](https://postimg.cc/hzRmT9PZ)
 
 <!--
 **sassqutrit/sassqutrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
